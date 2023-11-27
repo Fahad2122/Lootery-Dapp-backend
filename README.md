@@ -54,3 +54,10 @@ This decentralized lottery system aims to bring trust and fairness to the world 
  - #contracts/: Contains the Ethereum smart contracts for the decentralized lottery.
  - #deploy/: Deployment scripts for deploying smart contracts.
  - #test/: Test scripts for verifying the functionality of smart contracts.
+
+## Acknowledgments
+his project was built with Hardhat for Ethereum development. Special thanks to Chainlink for providing secure and decentralized oracles for our lottery system.
+
+Feel free to explore the code, contribute, and enhance the decentralized lottery experience!
+
+🚀 Happy Lottery Gaming! 🎉

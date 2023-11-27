@@ -34,3 +34,23 @@ This decentralized lottery system aims to bring trust and fairness to the world 
    Create a .env file and set the required environment variables. You may use the provided .env.example as a template.
 
 ## Local Development 
+### Hardhat Commands
+
+1. **Compile Smart Contracts:**
+   ```bash
+   hh compile
+   ```
+
+2. **Deploy Smart Contracts:**
+   ```bash
+   hh deploy --network [network_name]
+   ```
+
+3. **Testing Smart Contracts:**
+   ```bash
+   hh test --network [network_name]
+   ```
+### Project Structure
+ - #contracts/: Contains the Ethereum smart contracts for the decentralized lottery.
+ - #deploy/: Deployment scripts for deploying smart contracts.
+ - #test/: Test scripts for verifying the functionality of smart contracts.

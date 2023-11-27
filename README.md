@@ -16,6 +16,21 @@ This decentralized lottery system aims to bring trust and fairness to the world 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository_url]
-   cd decentralized-lottery-backend
-```
+   git clone https://github.com/Fahad2122/Lootery-Dapp-backend
+   cd Lootery-Dapp-backend
+   ```
+
+2. **Installation of packges:**
+    using npm
+   ```bash
+   npm install
+   ```
+   using yarn
+   ```bash
+   yarn install
+   ```
+
+3. **Configure Environment Variables:**
+   Create a .env file and set the required environment variables. You may use the provided .env.example as a template.
+
+## Local Development 

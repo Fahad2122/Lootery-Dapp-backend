@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# Decentralized Lottery DApp - Backend
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Welcome to the decentralized lottery DApp backend repository! This project leverages the power of blockchain, Ethereum, Chainlink VRF, and Chainlink automation to create a fair and transparent lottery system. Members can enter the lottery by paying a small amount of cryptocurrency, and the winner is randomly chosen using Chainlink VRF. The reward is automatically sent to the winner through Chainlink automation after a specified time period.
 
-Try running some of the following tasks:
+## Project Description
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+This decentralized lottery system aims to bring trust and fairness to the world of lotteries. By utilizing blockchain technology and smart contracts, participants can engage in a decentralized and transparent lottery experience.
+
+### Features:
+
+- **Chainlink VRF (Verifiable Random Function):** Ensures a provably fair and random selection of the lottery winner.
+- **Chainlink Automation:** Automatically processes and sends the reward to the winner after a predefined time period.
+- **Ethereum Blockchain:** Utilizes the Ethereum blockchain for smart contract execution and secure transactions.
+
+## Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [repository_url]
+   cd decentralized-lottery-backend
 ```
